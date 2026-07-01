@@ -1,0 +1,24 @@
+{
+  "name": "devsetup",
+  "version": "1.0.0",
+  "description": "> Répertoire de configuration de mon environnement de développement   > Projet 1.1, Phase 1 (Environnement & Setup), Akieni Academy — Cohorte 2, 2026.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullStack-Steven/DevSetup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FullStack-Steven/DevSetup/issues"
+  },
+  "homepage": "https://github.com/FullStack-Steven/DevSetup#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
