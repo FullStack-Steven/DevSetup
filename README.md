@@ -1,6 +1,6 @@
 # DevSetup
 
-> Répertoire de configuration de mon environnement de développement  
+> Répertoire de configuration de mon environnement de développement
 > Projet 1.1, Phase 1 (Environnement & Setup), Akieni Academy — Cohorte 2, 2026.
 
 Ce repository documente la mise en place complète de mon environnement de développement Fullstack : installation des outils, configuration Git/GitHub, et bonnes pratiques de démarrage de projet.
@@ -142,9 +142,9 @@ git push -u origin main
 
 ##  Bonus réalisés
 
-- [ ] Nodemon configuré pour le développement
+- [x] Nodemon configuré pour le développement
 - [x] Fichier `.editorconfig` ajouté au projet
-- [ ] Branche `dev` créée et mergée dans `main`
+- [x] Branche `dev` créée et mergée dans `main`
 
 ---
 
